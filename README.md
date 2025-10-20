@@ -3,7 +3,7 @@
 ## Business Communication
 
 ### Evidence
-![Business Communication Result](Evidence/Business_Communication.png)
+![Interview Skills Result](Evidence/Interview Skills.PNG)
 
 ### STAR Reflection
 **S – Situation:** As most of my internship communication took place online, I had to rely on email, whatsapp and Teams messages to keep my teamleader updated.
@@ -17,7 +17,7 @@
 ## Interview Skills
 
 ### Evidence
-![Interview Skills Result](Evidence/Interview_Skills.png)
+![Interview Skills Result](Evidence/Interview Skills.PNG)
 
 ### STAR Reflection
 **S – Situation:**   To prepare for internship applications, I needed to practise how to present myself professionally in a virtual interview.
@@ -31,7 +31,7 @@
 ## Mock Interview
 
 ### Evidence
-![Mock Interview Result](Evidence/Mock_Interview.png)
+![Mock Interview Result](Evidence/Mock Interview.PNG)
 
 ### STAR Reflection
 **S – Situation:** : As part of the Work Readiness module, I was required to record a self-conducted mock interview to demonstrate interview skills.
@@ -45,7 +45,7 @@
 ## Professional Networking
 
 ### Evidence
-![Professional Networking Result](Evidence/Professional_Networking.png)
+![Professional Networking Result](Evidence/Professional Networking.PNG)
 ### STAR Reflection
 **S – Situation:**  Since my internship was mostly remote, I relied on online platforms to build professional relationships.
 
@@ -58,7 +58,7 @@
 ## Workplace Etiquette
 
 ### Evidence
-![ Workplace Etiquette results](Evidence/Workplace_Etiquette.PNG)
+![ Workplace Etiquette results](Evidence/Workplace Etiquette.PNG)
 
 ### STAR Reflection
 **S – Situation:**  Working remotely from home meant I had to demonstrate professionalism without face-to-face teamleader.
