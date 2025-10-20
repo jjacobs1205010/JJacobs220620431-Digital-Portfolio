@@ -1,15 +1,18 @@
 # JJacobs220620431-Digital-Portfolio
 
+This digital portfolio showcases my personal and professional growth during the Work Readiness Training and my internship with Plum Systems. It highlights the development of my communication, collaboration, and technical skills, while demonstrating how I applied theoretical knowledge from my ICT studies in real-world projects. The portfolio also includes reflective evidence of how remote work shaped my adaptability and discipline.
+
+
 ## Business Communication
 ### Evidence
 ![Business Communication Result](Evidence/Business_Communication.PNG)
 
 ### STAR Reflection
-**S – Situation:** Most of my internship communication took place online, I had to rely on email, whatsapp and Microsoft Teams calls and messages to keep my teamleader updated.
+**S – Situation:** Most of my internship communication took place online, I had to rely on email, WhatsApp and Microsoft Teams calls and messages to keep my team leader updated.
 
 **T – Task:** I had to apply professional communication principles when writing and responding to formal messages.
 
-**A – Action:** I used the skills learned in this lesson  to structure my messages clearly, using professional language, and summarised key points.
+**A – Action:** I used the skills learned in this lesson to structure my messages clearly, using professional language, and summarised key points.
 
 **R – Result:** My written communication improved greatly, and I gained confidence in expressing ideas professionally in digital formats.
 
@@ -33,7 +36,7 @@
 ![Mock Interview Result](Evidence/Mock_Interview.PNG)
 
 ### STAR Reflection
-**S – Situation:** : As part of the Work Readiness module, I was required to record a self-conducted mock interview to demonstrate interview skills.
+**S – Situation:**  As part of the Work Readiness module, I was required to record a self-conducted mock interview to demonstrate interview skills.
 
 **T – Task:** To conduct and record a simulated professional interview.
 
@@ -48,19 +51,19 @@
 ### STAR Reflection
 **S – Situation:**  Since my internship was mostly remote, I relied on online platforms to build professional relationships.
 
-**T – Task:** To create and maintain a professional online presence and effectively share my work with classmates and my teamleader.
+**T – Task:** To create and maintain a professional online presence and effectively share my work with classmates and my team leader.
 
-**A – Action:** I used tools such as Visual Studio Code and Outlook Notes to document and share project work, notes, and updates. I used plateforms like whatsapp and email as well as team calls to update my teamleader and classmates.
+**A – Action:** I used tools such as Visual Studio Code and Outlook Notes to document and share project work, notes, and updates. I used platforms like WhatsApp, email and Microsoft Teams calls to update my team leader and classmates.
 
-**R – Result:** : I gained a better understanding of how professional practices operate in the workplace and observed real-world applications of networking and IoT.
+**R – Result:**  I gained a better understanding of how professional practices operate in the workplace and observed real-world applications of networking and IoT.
 
 ## Workplace Etiquette
 
 ### Evidence
-![ Workplace Etiquette results](Evidence/Workplace_Etiquette.PNG)
+![Workplace Etiquette results](Evidence/Workplace_Etiquette.PNG)
 
 ### STAR Reflection
-**S – Situation:** Working remotely from home meant I had to demonstrate professionalism without face-to-face teamleader.
+**S – Situation:** Working remotely from home meant I had to demonstrate professionalism without a face-to-face team leader.
 
 **T – Task:** Show accountability, punctuality, and respect during online meetings and submissions.
 
